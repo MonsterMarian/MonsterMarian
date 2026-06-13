@@ -1,27 +1,31 @@
-# 👋 Ahoj, jsem **Marian** – český programátor a nadšenec do technologií
+# 👋 Ahoj, jsem **Marian Vystavěl** – student IT a nadšený programátor
 
 ![Profilová ilustrace](file:///C:/Users/Marian/.gemini/antigravity/brain/b80fa07b-6a04-4f47-99c6-1c7d30541cc3/profile_picture_1781368988900.png)
 
 ---
 
 ## 🚀 O mně
-- 🎓 **Vzdělání**: Vysoká škola informačních technologií – obor Softwarové inženýrství.
-- 💼 **Zkušenosti**: Vývoj webových aplikací (React, Next.js, Vite), backend v Node.js a Pythonu, automatizace a DevOps.
-- 🌍 **Zájmy**: Open‑source, UI/UX design, AI a strojové učení, a vývoj her.
+- 🎓 **Vzdělání**: SPŠE Ječná (Praha 2) – obor Informační Technologie.
+- 💼 **Zkušenosti**: Vývoj aplikací, tvorba vlastních neuronových sítí a databází.
+- 🌍 **Zájmy**: Sport, literatura, herectví, finance, konverzace a filozofie.
 
 ---
 
 ## 🛠️ Dovednosti
-| Front‑end | Back‑end | Databáze | Nástroje |
-|-----------|----------|----------|----------|
-| **HTML5**, **CSS3**, **JavaScript (ES6+)**, **React**, **Next.js**, **Vite** | **Node.js**, **Express**, **Python**, **FastAPI** | **PostgreSQL**, **MongoDB**, **SQLite** | **Git**, **Docker**, **GitHub Actions**, **Jest**, **Cypress**, **VS Code** |
+| Jazyky | Databáze | Nástroje a technologie |
+|--------|----------|-------------------------|
+| **Java**, **C#**, **Python**, **JavaScript** | **MySQL**, **Microsoft SQL Server** | **React**, **Next.js**, **Vite**, **Git**, **CSS3** |
 
 ---
 
 ## 📂 Projekty
-- **[Cookify](https://github.com/MonsterMarian/Cookify)** – moderní webová aplikace pro správu receptů s dynamickým UI a integrací s OpenAI.
-- **[Portfolio v Next.js](https://github.com/MonsterMarian/Portfolio)** – osobní portfolio s animacemi, dark mode a SEO optimalizací.
-- **[AI Chatbot](https://github.com/MonsterMarian/AI‑Chatbot)** – chatbot založený na OpenAI API s vlastními promptmi a rozhraním ve Vue.
+| Projekt | Popis |
+|---------|-------|
+| **[Portfolio](https://github.com/MonsterMarian/Portfolio)** | Osobní portfolio s animacemi, dark‑mode a SEO optimalizací, postavené na Next.js. |
+| **[RegionBeta](https://github.com/MonsterMarian/RegionBeta)** | Todo‑aplikace v Reactu (TypeScript) sloužící jako ukázka state managementu a UI designu. |
+| **[MP3‑4‑Parser](https://github.com/MonsterMarian/MP3-4-Parser)** | Parser pro soubory MP3 a MP4 v Pythonu. |
+| **[MyGoogleExtentions](https://github.com/MonsterMarian/MyGoogleExtentions)** | Sada Chrome rozšíření zaměřených na zlepšení Google služeb. |
+| **[MyTools](https://github.com/MonsterMarian/MyTools)** | Kolekce malých nástrojů a skriptů pro každodenní použití. |
 
 ---
 
@@ -32,15 +36,13 @@
 ---
 
 ## 📫 Kontakt
-- ✉️ **E‑mail**: marian@example.com
-- 🐦 **Twitter**: [@MonsterMarian](https://twitter.com/MonsterMarian)
-- 💼 **LinkedIn**: [Marian] (https://linkedin.com/in/monstermarian)
+- ✉️ **E‑mail**: mvystavel@seznam.cz
+- 💼 **LinkedIn**: [Marian Vystavěl](https://www.linkedin.com/in/marian-vystav%C4%9Bl-0a21263a0/)
 
 ---
 
 <details>
 <summary>💡 Zajímá vás více?</summary>
 
-Podívejte se na mé **[GitHub Repozitáře](https://github.com/MonsterMarian?tab=repositories)** a **[Blog](https://monstermarian.github.io/blog)**, kde sdílím návody a tipy.
-
+Podívejte se na mé **[GitHub repozitáře](https://github.com/MonsterMarian?tab=repositories)**.
 </details>
