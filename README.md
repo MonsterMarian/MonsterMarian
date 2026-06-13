@@ -1,7 +1,5 @@
 # 👋 Ahoj, jsem **Marian Vystavěl** – student IT a nadšený programátor
 
-![Profilová ilustrace](file:///C:/Users/Marian/.gemini/antigravity/brain/b80fa07b-6a04-4f47-99c6-1c7d30541cc3/profile_picture_1781368988900.png)
-
 ---
 
 ## 🚀 O mně
