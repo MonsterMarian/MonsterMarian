@@ -1,46 +1,66 @@
-# 👋 Ahoj, jsem **Marian Vystavěl** – student IT a nadšený programátor
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&width=435&lines=Ahoj%2C+jsem+Marian+Vystav%C4%9Bl;Student+IT+%26+Developer;V%C3%ADtejte+na+m%C3%A9m+profilu!" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <em>🎓 Student SPŠE Ječná v Praze se zaměřením na Informační Technologie.
+  <br>Zajímám se o vývoj aplikací, neuronové sítě a databáze.</em>
+</p>
 
 ---
 
-## 🚀 O mně
-- 🎓 **Vzdělání**: SPŠE Ječná (Praha 2) – obor Informační Technologie.
-- 💼 **Zkušenosti**: Vývoj aplikací, tvorba vlastních neuronových sítí a databází.
-- 🌍 **Zájmy**: Sport, literatura, herectví, finance, konverzace a filozofie.
+### 🛠️ Moje dovednosti
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <br />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
 ---
 
-## 🛠️ Dovednosti
-| Jazyky | Databáze | Nástroje a technologie |
-|--------|----------|-------------------------|
-| **Java**, **C#**, **Python**, **JavaScript** | **MySQL**, **Microsoft SQL Server** | **React**, **Next.js**, **Vite**, **Git**, **CSS3** |
+### 📂 Nejnovější projekty
 
----
-
-## 📂 Projekty
 | Projekt | Popis |
 |---------|-------|
-| **[Portfolio](https://github.com/MonsterMarian/Portfolio)** | Osobní portfolio s animacemi, dark‑mode a SEO optimalizací, postavené na Next.js. |
-| **[RegionBeta](https://github.com/MonsterMarian/RegionBeta)** | Todo‑aplikace v Reactu (TypeScript) sloužící jako ukázka state managementu a UI designu. |
-| **[MP3‑4‑Parser](https://github.com/MonsterMarian/MP3-4-Parser)** | Parser pro soubory MP3 a MP4 v Pythonu. |
-| **[MyGoogleExtentions](https://github.com/MonsterMarian/MyGoogleExtentions)** | Sada Chrome rozšíření zaměřených na zlepšení Google služeb. |
-| **[MyTools](https://github.com/MonsterMarian/MyTools)** | Kolekce malých nástrojů a skriptů pro každodenní použití. |
+| 🌐 **[Portfolio](https://github.com/MonsterMarian/Portfolio)** | Osobní portfolio s animacemi, dark‑mode a SEO optimalizací (Next.js). |
+| 📝 **[RegionBeta](https://github.com/MonsterMarian/RegionBeta)** | Todo‑aplikace v Reactu (TypeScript) – ukázka state managementu a UI. |
+| 🎵 **[MP3‑4‑Parser](https://github.com/MonsterMarian/MP3-4-Parser)** | Vlastní parser pro soubory MP3 a MP4 napsaný v Pythonu. |
+| 🧩 **[MyGoogleExtentions](https://github.com/MonsterMarian/MyGoogleExtentions)** | Sada několika Chrome rozšíření zaměřených na vylepšení služeb Google. |
+| 🛠️ **[MyTools](https://github.com/MonsterMarian/MyTools)** | Kolekce užitečných malých nástrojů a skriptů pro každodenní použití. |
 
 ---
 
-## 📈 GitHub statistiky
-![Statistiky GitHubu](https://github-readme-stats.vercel.app/api?username=MonsterMarian&show_icons=true&theme=radical&hide_border=true)
-![Top jazykové statistiky](https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterMarian&layout=compact&theme=radical&hide_border=true)
+### 📊 GitHub Statistiky
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MonsterMarian&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Statistiky GitHubu" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterMarian&layout=compact&theme=tokyonight&hide_border=true" alt="Top jazyky" />
+</div>
 
 ---
 
-## 📫 Kontakt
-- ✉️ **E‑mail**: mvystavel@seznam.cz
-- 💼 **LinkedIn**: [Marian Vystavěl](https://www.linkedin.com/in/marian-vystav%C4%9Bl-0a21263a0/)
+### 📫 Najdete mě zde:
+<div align="center">
+  <a href="mailto:mvystavel@seznam.cz">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/marian-vystav%C4%9Bl-0a21263a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
----
-
-<details>
-<summary>💡 Zajímá vás více?</summary>
-
-Podívejte se na mé **[GitHub repozitáře](https://github.com/MonsterMarian?tab=repositories)**.
-</details>
+<p align="center">
+  <br>
+  <em>Sport • Literatura • Herectví • Finance • Filozofie</em>
+</p>
