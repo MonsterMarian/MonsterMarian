@@ -9,7 +9,7 @@
 
 ---
 
-### 🛠️ Moje dovednosti
+### 🛠️ Skills
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -40,7 +40,7 @@
 
 ---
 
-### 📊 GitHub Statistiky
+### 📊 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MonsterMarian&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Statistiky GitHubu" />
@@ -50,7 +50,7 @@
 
 ---
 
-### 📫 Najdete mě zde:
+### 📫 Kontakt
 <div align="center">
   <a href="mailto:mvystavel@seznam.cz">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
