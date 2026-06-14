@@ -54,9 +54,7 @@
 ### Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MonsterMarian&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Statistiky GitHubu" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterMarian&layout=compact&theme=tokyonight&hide_border=true" alt="Top jazyky" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MonsterMarian&custom_title=GitHub%20Stats&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Statistiky GitHubu" />
 </div>
 
 ---
