@@ -38,14 +38,6 @@
 
 ---
 
-### Úspěchy
-- První maraton
-- První zlatá medaile za běh
-- Druhá zlatá medaile za běh
-- Top 1.5% v šachu
-
----
-
 ### Stats
 
 <div align="center">
