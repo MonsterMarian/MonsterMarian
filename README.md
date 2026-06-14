@@ -69,7 +69,7 @@
 
 <p align="center">
   <br>
-  <em>Sport • Literatura • Herectví • Finance • Filozofie</em>
+  <em>Sport • Programování • Herectví • Finance • Filozofie</em>
 </p>
 
 <div align="center">
