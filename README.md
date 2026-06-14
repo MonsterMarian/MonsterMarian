@@ -71,3 +71,7 @@
   <br>
   <em>Sport • Literatura • Herectví • Finance • Filozofie</em>
 </p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/cat-typing.gif" alt="Cat typing GIF" />
+</div>
