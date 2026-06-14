@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&width=435&center=true&vCenter=true&lines=Ahoj%2C+jsem+Marian+Vystav%C4%9Bl;Absolvent+IT+%26+Developer;V%C3%ADtejte+na+m%C3%A9m+profilu!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&width=435&center=true&vCenter=true&lines=Hi%2C+I'm+Marian+Vystav%C4%9Bl;IT+Graduate+%26+Developer;Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <em>Absolvent SPŠE Ječná v Praze se zaměřením na Informační Technologie.
-  <br>Zajímám se o vývoj aplikací a webů, neuronové sítě, automatizaci a databáze.</em>
+  <em>Graduate of SPŠE Ječná in Prague, specializing in Information Technology.
+  <br>I am interested in app and web development, neural networks, automation, and databases.</em>
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
 ---
 
-### Pinned projekty
+### Pinned Projects
 
 <div align="center">
   <a href="https://github.com/MonsterMarian/Portfolio">
@@ -41,25 +41,25 @@
 
 ---
 
-### Nejnovější projekty
+### Latest Projects
 
-| Projekt | Popis |
+| Project | Description |
 |---------|-------|
-| **[MP3‑4‑Parser](https://github.com/MonsterMarian/MP3-4-Parser)** | Vlastní parser pro soubory MP3 a MP4 napsaný v Pythonu. |
-| **[MyTools](https://github.com/MonsterMarian/MyTools)** | Kolekce užitečných malých nástrojů a skriptů pro každodenní použití. |
-| **[MyGoogleExtentions](https://github.com/MonsterMarian/MyGoogleExtentions)** | Sada několika Chrome rozšíření zaměřených na vylepšení služeb Google. |
+| **[MP3‑4‑Parser](https://github.com/MonsterMarian/MP3-4-Parser)** | A custom parser for MP3 and MP4 files written in Python. |
+| **[MyTools](https://github.com/MonsterMarian/MyTools)** | A collection of useful small tools and scripts for everyday use. |
+| **[MyGoogleExtentions](https://github.com/MonsterMarian/MyGoogleExtentions)** | A set of Chrome extensions aimed at improving Google services. |
 
 ---
 
 ### Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MonsterMarian&custom_title=GitHub%20Stats&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Statistiky GitHubu" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MonsterMarian&custom_title=GitHub%20Stats&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 ---
 
-### Kontakt
+### Contact
 <div align="center">
 
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvystavel@seznam.cz)
@@ -69,7 +69,7 @@
 
 <p align="center">
   <br>
-  <em>Sport • Programování • Herectví • Finance • Filozofie</em>
+  <em>Sports • Programming • Acting • Finance • Philosophy</em>
 </p>
 
 <div align="center">
