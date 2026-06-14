@@ -4,7 +4,7 @@
 
 <p align="center">
   <em>Absolvent SPŠE Ječná v Praze se zaměřením na Informační Technologie.
-  <br>Zajímám se o vývoj aplikací, neuronové sítě a databáze.</em>
+  <br>Zajímám se o vývoj aplikací a webů, neuronové sítě, automatizaci a databáze.</em>
 </p>
 
 ---
