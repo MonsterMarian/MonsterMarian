@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&width=435&lines=Ahoj%2C+jsem+Marian+Vystav%C4%9Bl;Student+IT+%26+Developer;V%C3%ADtejte+na+m%C3%A9m+profilu!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&width=435&lines=Ahoj%2C+jsem+Marian+Vystav%C4%9Bl;Absolvent+IT+%26+Developer;V%C3%ADtejte+na+m%C3%A9m+profilu!" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <em>🎓 Student SPŠE Ječná v Praze se zaměřením na Informační Technologie.
+  <em>Absolvent SPŠE Ječná v Praze se zaměřením na Informační Technologie.
   <br>Zajímám se o vývoj aplikací, neuronové sítě a databáze.</em>
 </p>
 
 ---
 
-### 🛠️ Skills
+### Skills
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -28,19 +28,30 @@
 
 ---
 
-### 📂 Nejnovější projekty
+### Pinned projekty
 
-| Projekt | Popis |
-|---------|-------|
-| 🌐 **[Portfolio](https://github.com/MonsterMarian/Portfolio)** | Osobní portfolio s animacemi, dark‑mode a SEO optimalizací (Next.js). |
-| 📝 **[RegionBeta](https://github.com/MonsterMarian/RegionBeta)** | Todo‑aplikace v Reactu (TypeScript) – ukázka state managementu a UI. |
-| 🎵 **[MP3‑4‑Parser](https://github.com/MonsterMarian/MP3-4-Parser)** | Vlastní parser pro soubory MP3 a MP4 napsaný v Pythonu. |
-| 🧩 **[MyGoogleExtentions](https://github.com/MonsterMarian/MyGoogleExtentions)** | Sada několika Chrome rozšíření zaměřených na vylepšení služeb Google. |
-| 🛠️ **[MyTools](https://github.com/MonsterMarian/MyTools)** | Kolekce užitečných malých nástrojů a skriptů pro každodenní použití. |
+<div align="center">
+  <a href="https://github.com/MonsterMarian/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MonsterMarian&repo=Portfolio&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/MonsterMarian/RegionBeta">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MonsterMarian&repo=RegionBeta&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
 
 ---
 
-### 📊 Stats
+### Nejnovější projekty
+
+| Projekt | Popis |
+|---------|-------|
+| **[MP3‑4‑Parser](https://github.com/MonsterMarian/MP3-4-Parser)** | Vlastní parser pro soubory MP3 a MP4 napsaný v Pythonu. |
+| **[MyTools](https://github.com/MonsterMarian/MyTools)** | Kolekce užitečných malých nástrojů a skriptů pro každodenní použití. |
+| **[MyGoogleExtentions](https://github.com/MonsterMarian/MyGoogleExtentions)** | Sada několika Chrome rozšíření zaměřených na vylepšení služeb Google. |
+
+---
+
+### Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MonsterMarian&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Statistiky GitHubu" />
@@ -50,7 +61,7 @@
 
 ---
 
-### 📫 Kontakt
+### Kontakt
 <div align="center">
   <a href="mailto:mvystavel@seznam.cz">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
