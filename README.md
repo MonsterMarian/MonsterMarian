@@ -26,18 +26,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
----
-
-### Pinned Projects
-
-<div align="center">
-  <a href="https://github.com/MonsterMarian/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MonsterMarian&repo=Portfolio&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/MonsterMarian/RegionBeta">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MonsterMarian&repo=RegionBeta&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
 
 ---
 
