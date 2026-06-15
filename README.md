@@ -46,13 +46,17 @@
 
 ---
 
-### Contact & Footer
+### Contacts
 <div align="center">
 
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvystavel@seznam.cz)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marian-vystav%C4%9Bl-0a21263a0/)
 
 </div>
+
+---
+
+### Hobbies & Interests
 
 <p align="center">
   <br>
