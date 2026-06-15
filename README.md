@@ -5,6 +5,8 @@
 <p align="center">
   <em>Graduate of SPŠE Ječná in Prague, specializing in Information Technology.
   <br>I am interested in app and web development, neural networks, automation, and databases.</em>
+  <br><br>
+  🌐 <strong><a href="https://marianvystavel.cz/">marianvystavel.cz</a></strong>
 </p>
 
 ---
